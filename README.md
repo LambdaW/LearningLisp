@@ -1,2 +1,2 @@
 # LearningLisp
-Also, I like turtles  🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
+Also, I like turtles 🐢🐢🐢🐢🐢🐢🐢
