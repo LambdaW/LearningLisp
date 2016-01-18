@@ -1,0 +1,7 @@
+(define (capitalizer)
+	(begin (define string (read-line))
+		(cond ((not (string-null? string))
+			(begin (display (string-capitalize string))
+				(newline)
+				(capitalizer)))
+		(else '()))))
