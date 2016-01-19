@@ -22,7 +22,7 @@
 
 (define v (create_vector -1 1 0.01))
 
-define (sum-x m)
+(define (sum-x m)
   (if (eqv? m '()) 0
       (+ (caar m) (sum-x (cdr m)))))
 
