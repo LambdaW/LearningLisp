@@ -1,2 +1,1 @@
-# LearningLisp
-Also, I like turtles 🐢🐢🐢🐢🐢🐢🐢
+Learniing LISP from SICP book.
